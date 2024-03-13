@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\SECOND_TEST\SNAKE_GITHUB\myLib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\SECOND_TEST\SNAKE_GITHUB\myLib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+  SNAKE_GITHUB.vcxproj -> D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\SECOND_TEST\SNAKE_GITHUB\x64\Debug\SNAKE_GITHUB.exe
