@@ -1,5 +1,5 @@
-﻿  main.cpp
-D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\LATEST\CHECK\CHECK\main.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  myControl.cpp
+﻿  game.cpp
+D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\LATEST\CHECK\CHECK\game.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
   Generating Code...
   CHECK.vcxproj -> D:\ĐẠI HỌC BKHN\CƠ SỞ NGÀNH\Kĩ thuật Lập Trình C.C++\Big_project\LATEST\CHECK\CHECK\x64\Debug\CHECK.exe
